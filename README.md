@@ -27,4 +27,4 @@ Les principaux objectifs sont :
 
 1. Clonez le dépôt pour récupérer les fichiers :
    ```bash
-   git clone https://github.com/votreutilisateur/medecin-profil-page.git
+   git clone https://github.com/hamzagbouri/Profil-de-M-decin-en-HTML-et-CSS.git
